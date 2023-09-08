@@ -1,6 +1,6 @@
 # finAPI
 
-<h3>Tecnologias utilizadas:</h3>
+<h3>Stacks:</h3>
 
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
