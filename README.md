@@ -1,4 +1,4 @@
-# finAPI
+# bankAPI
 
 <h3>Stacks:</h3>
 
